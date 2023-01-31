@@ -33,12 +33,14 @@ div.head-field > select{
     background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
     border: white 1px solid;
+    border-radius: 2px;
 }
 
 div.head-field > button {
     background-color: red;
     padding: 10px;
     border: none;
+    border-radius: 2px;
     cursor: pointer;
 }
 
@@ -52,7 +54,12 @@ main {
 }
 
 main > h1 {
-    font-size: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+main > p {
+    font-size: 1.2em;
     text-align: center;
 }
 
@@ -61,8 +68,11 @@ main > h2 {
 }
 
 main > div.email-field > input {
+    display: flex;
+    align-items: center;
     color: black;
-    width: 500px;
+    width: 400px;
+    height: 30px;
     padding: 10px;
     border: none;
 }
@@ -73,10 +83,12 @@ main > div.email-field > input:focus {
 }
 
 main > div.email-field > button {
+    display: block;
+    font-size: 1.1em;
     color: white;
-    background-color: red;
-    margin-left: -10px;
-    padding: 10px;
+    background-color: #F40612;
+    margin: 20px auto;
+    padding: 13px;
     border: none;
     cursor: pointer;
 }
