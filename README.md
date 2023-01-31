@@ -14,8 +14,8 @@ Um clone da página inicial da Netflix
 
 <br>
 
-
-![clone-netflix](https://user-images.githubusercontent.com/88911920/215538267-1cb39bfd-2607-48ff-915f-13f9556ee00f.png)
+![desktop](https://user-images.githubusercontent.com/88911920/215759257-6dbf4d09-7d20-4b46-af86-dbfc8b03e88d.png)
+![mobile](https://user-images.githubusercontent.com/88911920/215759045-ec31f77b-5d4b-4874-b236-094e5b6cbb4b.png)
 
 
 ## O que é o projeto
